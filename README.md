@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/xNotro/MobSpecial/blob/master/LICENSE.txt">
-    <img alt="GitHub" src="https://img.shields.io/github/license/xNotro/MobSpecial/?style=plastic">
+    <img alt="GitHub" src="https://img.shields.io/github/license/xNotro/MobSpecial?style=plastic">
   </a>
   <a href="https://github.com/xNotro/MobSpecial/releases/latest">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/xNotro/MobSpecial/?style=plastic">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/xNotro/MobSpecial?style=plastic">
   </a>
   <a href="https://github.com/xNotro/MobSpecial/releases/latest">
     <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/xNotro/MobSpecial/total?style=plastic">
