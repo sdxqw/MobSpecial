@@ -1,0 +1,9 @@
+name: MobSpecial
+version: '${project.version}'
+main: org.xnotro.mobspecial.Core
+api-version: 1.18
+authors: [ xnotro ]
+description: Mob Special
+commands:
+  ms:
+    description: spawn mob
